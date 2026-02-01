@@ -1,0 +1,15 @@
+$schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: "0.2"
+words:
+  - authelia
+  - healthz
+  - hsts
+  - kakkun
+  - letsencrypt
+  - mrmn
+  - nonroot
+  - pdfding
+  - signup
+  - traefik
+ignorePaths:
+  - .vscode
